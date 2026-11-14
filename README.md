@@ -1,5 +1,10 @@
 # Day 06 · Data Lab · Field-to-Release PoC (AI20K · Data Track)
 
+> **Bài nộp — Hoàng Hải Đăng (2A202603189, làm một mình)**
+> Track: **T08 · Retention & Delete Request Simulator** · Repo: https://github.com/hoanghaidang1233/K5-Day6-L2-HoangHaiDang-2A202603189-DataGovernanceAndPrivacy
+> Tag cuối: `final-24h` · Report: [reports/group_report.md](reports/group_report.md)
+> Chạy: `python -m src.main --config configs/lab.yaml --output out/poc --run-name poc --offline --seed 42` · Test: `pytest -q`
+
 Starter repo cho bài lab **Data Pipeline, Privacy & Production PoC**: 14 challenge (T01–T14), một contract chung.
 Repo cung cấp **dữ liệu offline + hạ tầng dùng chung + metric chuẩn + template báo cáo** để nhóm tập trung vào phần quan trọng:
 vấn đề, baseline, thuật toán, đánh giá trung thực, human-in-the-loop và quyết định GO/HOLD/REWORK.

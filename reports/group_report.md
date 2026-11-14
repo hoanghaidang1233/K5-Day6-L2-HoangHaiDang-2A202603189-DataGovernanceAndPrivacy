@@ -9,11 +9,11 @@
 | Mục | Giá trị |
 |---|---|
 | Group ID |Không có (Làm 1 mình) |
-| Challenge | T08 · Retention & Delete Request Simulator |
+| Challenge | T08 · Retention & Delete Request Simulator |git add reports/group_report.md
 | Thành viên + vai trò | 1. Hoàng Hải Đăng — làm một mình (Lead/Integrator + Core algorithm + QA/metric + Review/report) |
 | Git URL | https://github.com/hoanghaidang1233/K5-Day6-L2-HoangHaiDang-2A202603189-DataGovernanceAndPrivacy |
 | Tag `demo-180m` (commit) | Không có |
-| Tag `final-24h` (commit) | (chưa — sau 24h) |
+| Tag `final-24h` (commit) | sau 24h |
 | Deadline (giờ VN) | Demo: phút 180 buổi lab 14/11/2026 · Final: +24h (15/11/2026) |
 
 ## 01 · Problem statement

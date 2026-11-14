@@ -1,0 +1,61 @@
+rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,DR-001:a0212,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+2,DR-002:a0043,3.0,LEGAL_HOLD,retain_legal_hold,raw_video,,Hoang Hai Dang (DPO),,,,
+3,DR-002:a0044,3.0,LEGAL_HOLD,retain_legal_hold,backup,,Hoang Hai Dang (DPO),,,,
+4,DR-002:a0045,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+5,DR-002:a0046,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+6,DR-002:a0047,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+7,DR-002:a0048,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+8,DR-002:a0049,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+9,DR-002:a0050,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+10,DR-002:a0051,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+11,DR-002:a0052,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+12,DR-002:a0053,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+13,DR-002:a0054,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+14,DR-002:a0055,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+15,DR-002:a0056,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+16,DR-002:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+17,DR-003:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+18,DR-003:a0212,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+19,DR-004:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+20,DR-004:a0212,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+21,DR-005:a0099,3.0,LEGAL_HOLD,retain_legal_hold,raw_video,,Hoang Hai Dang (DPO),,,,
+22,DR-005:a0100,3.0,LEGAL_HOLD,retain_legal_hold,backup,,Hoang Hai Dang (DPO),,,,
+23,DR-005:a0101,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+24,DR-005:a0102,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+25,DR-005:a0103,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+26,DR-005:a0104,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+27,DR-005:a0105,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+28,DR-005:a0106,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+29,DR-005:a0107,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+30,DR-005:a0108,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+31,DR-005:a0109,3.0,LEGAL_HOLD,retain_legal_hold,frame,,Hoang Hai Dang (DPO),,,,
+32,DR-005:a0110,3.0,LEGAL_HOLD,retain_legal_hold,face_crop,,Hoang Hai Dang (DPO),,,,
+33,DR-005:a0111,3.0,LEGAL_HOLD,retain_legal_hold,embedding,,Hoang Hai Dang (DPO),,,,
+34,DR-005:a0112,3.0,LEGAL_HOLD,retain_legal_hold,annotation,,Hoang Hai Dang (DPO),,,,
+35,DR-005:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+36,DR-005:a0212,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+37,DR-007:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+38,DR-008:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+39,DR-009:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+40,DR-010:a0211,3.0,LEGAL_HOLD,retain_legal_hold,training_export,,Hoang Hai Dang (DPO),,,,
+41,DR-001:a0011,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_00: giữ escalate, cần tách/che phần của subj_01 hoặc có ý kiến subj_00 trước khi xóa",2026-11-14T09:16:26+00:00
+42,DR-001:a0014,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_00: giữ escalate, cần tách/che phần của subj_01 hoặc có ý kiến subj_00 trước khi xóa",2026-11-14T09:16:26+00:00
+43,DR-003:a0067,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_05: giữ escalate, cần tách/che phần của subj_04 hoặc có ý kiến subj_05 trước khi xóa",2026-11-14T09:16:26+00:00
+44,DR-003:a0070,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_05: giữ escalate, cần tách/che phần của subj_04 hoặc có ý kiến subj_05 trước khi xóa",2026-11-14T09:16:26+00:00
+45,DR-004:a0067,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_04: giữ escalate, cần tách/che phần của subj_05 hoặc có ý kiến subj_04 trước khi xóa",2026-11-14T09:16:26+00:00
+46,DR-004:a0070,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_04: giữ escalate, cần tách/che phần của subj_05 hoặc có ý kiến subj_04 trước khi xóa",2026-11-14T09:16:26+00:00
+47,DR-004:a0075,2.0,UNKNOWN_ORIGIN,escalate,embedding,,Hoang Hai Dang (DPO),approve,,embedding không rõ nguồn gốc: data-platform xác minh lineage trước khi xóa,2026-11-14T09:16:26+00:00
+48,DR-004:a0079,2.0,UNKNOWN_ORIGIN,escalate,embedding,,Hoang Hai Dang (DPO),approve,,embedding không rõ nguồn gốc: data-platform xác minh lineage trước khi xóa,2026-11-14T09:16:26+00:00
+49,DR-004:a0083,2.0,UNKNOWN_ORIGIN,escalate,embedding,,Hoang Hai Dang (DPO),approve,,embedding không rõ nguồn gốc: data-platform xác minh lineage trước khi xóa,2026-11-14T09:16:26+00:00
+50,DR-006:a0123,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_09: giữ escalate, cần tách/che phần của subj_08 hoặc có ý kiến subj_09 trước khi xóa",2026-11-14T09:16:26+00:00
+51,DR-006:a0126,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_09: giữ escalate, cần tách/che phần của subj_08 hoặc có ý kiến subj_09 trước khi xóa",2026-11-14T09:16:26+00:00
+52,DR-007:a0123,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_08: giữ escalate, cần tách/che phần của subj_09 hoặc có ý kiến subj_08 trước khi xóa",2026-11-14T09:16:26+00:00
+53,DR-007:a0126,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_08: giữ escalate, cần tách/che phần của subj_09 hoặc có ý kiến subj_08 trước khi xóa",2026-11-14T09:16:26+00:00
+54,DR-008:a0156,2.0,NO_PERMISSION,escalate,backup,,Hoang Hai Dang (DPO),approve,,"backup thuộc ACL vendor-x: gửi yêu cầu xóa cho vendor theo DPA, theo dõi xác nhận",2026-11-14T09:16:26+00:00
+55,DR-009:a0179,2.0,MULTI_SUBJECT,escalate,frame,,Hoang Hai Dang (DPO),approve,,"frame chung với subj_13: giữ escalate, cần tách/che phần của subj_12 hoặc có ý kiến subj_13 trước khi xóa",2026-11-14T09:16:26+00:00
+56,DR-009:a0182,2.0,MULTI_SUBJECT,escalate,annotation,,Hoang Hai Dang (DPO),approve,,"annotation chung với subj_13: giữ escalate, cần tách/che phần của subj_12 hoặc có ý kiến subj_13 trước khi xóa",2026-11-14T09:16:26+00:00
+57,DR-001:a0015,0.0,SUBJECT_ERASURE,delete,raw_video,,Hoang Hai Dang (DPO),,,,
+58,DR-001:a0016,0.0,SUBJECT_ERASURE,delete,backup,,Hoang Hai Dang (DPO),,,,
+59,DR-001:a0017,0.0,SUBJECT_ERASURE,delete,frame,,Hoang Hai Dang (DPO),,,,
+60,DR-001:a0018,0.0,SUBJECT_ERASURE,delete,face_crop,,Hoang Hai Dang (DPO),,,,

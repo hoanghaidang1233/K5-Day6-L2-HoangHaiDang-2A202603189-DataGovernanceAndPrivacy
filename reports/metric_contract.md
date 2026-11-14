@@ -12,7 +12,7 @@
 | Công thức + numerator / denominator |số artefact có expected_action=delete mà pipeline gán `delete` / tổng số artefact có expected_action=delete |
 | Cách ghép prediction ↔ GT (IoU? id? tolerance?) |ghép chính xác theo khóa (request_id, artefact_id); mỗi cặp chỉ 1 dòng |
 | Candidate pool cố định | 10 request trong `requests.json` × 212 artefact trong `data_graph.json` (fixture `t08_deletion`, hash khớp manifest) |
-| Review budget B / K | B = 40 dòng (đủ chứa toàn bộ ngoại lệ: legal hold + escalate)|
+| Review budget B / K | B = 60 (đếm thực tế 56 ngoại lệ > 40 dự kiến; nâng trước khi chạy eval)|
 | Seed | 42 |
 | Threshold policy (chọn trên dev như thế nào) |Không có threshold số. Dùng bảng luật ưu tiên cố định bên dưới, chốt trước khi chạy eval |
 | Eval split (không dùng để tune) |Toàn bộ 10 request (không có split dev/heldout cho T08); GT chỉ giảng viên chấm|

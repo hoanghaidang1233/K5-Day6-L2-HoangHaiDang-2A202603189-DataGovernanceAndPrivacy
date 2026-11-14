@@ -13,7 +13,7 @@
 | Thành viên + vai trò | 1. Hoàng Hải Đăng — làm một mình (Lead/Integrator + Core algorithm + QA/metric + Review/report) |
 | Git URL | https://github.com/hoanghaidang1233/K5-Day6-L2-HoangHaiDang-2A202603189-DataGovernanceAndPrivacy |
 | Tag `demo-180m` (commit) | Không có |
-| Tag `final-24h` (commit) | sau 24h |
+| Tag `final-24h` (commit) | f3efccb |
 | Deadline (giờ VN) | Demo: phút 180 buổi lab 14/11/2026 · Final: +24h (15/11/2026) |
 
 ## 01 · Problem statement
@@ -110,7 +110,7 @@ pytest -q
 ```
 
 - **pytest:** 57 passed, 39 skipped (skip = test cần `gt/` của giảng viên), 0 failed; riêng `tests/test_t08.py` 10/10 passed (idempotency, legal hold, ACL/unknown origin, phạm vi subject, lineage DR-001, audit, review gate, baseline).
-- **Máy:** Windows 11 (10.0.26200), AMD64 Family 25, Python 3.13.0 · git sha: [SHA tag final-24h]
+- **Máy:** Windows 11 (10.0.26200), AMD64 Family 25, Python 3.13.0 · git sha: f3efccb
 
 ## 09 · Limitations & ethics
 

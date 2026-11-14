@@ -19,7 +19,7 @@
 | Chỉ số lỗi xấu (miss / false alarm / false reject) |**False-delete count = 0 (ràng buộc cứng)**: xóa artefact thuộc ngoại lệ hoặc ngoài phạm vi request. Lỗi phụ: miss (artefact phải xóa nhưng bị bỏ sót) |
 | Slices sẽ báo cáo (≥2) |(1) theo expected_action: delete / retain_legal_hold / escalate; (2) theo loại artefact: raw_video / backup / frame / face_crop / embedding / annotation / training_export; (3) theo request|
 | Cách báo độ bất định khi N nhỏ (Wilson CI / bootstrap) |N=10 request → báo từng request (case by case) + Wilson 95% CI cho Completeness |
-| Ngày giờ chốt + người chốt |2026-11-14 HH:MM — Hoang Hai Dang (Data Owner) |
+| Ngày giờ chốt + người chốt |2026-11-14 15:19 (UTC+7, commit f097a3b) — Hoang Hai Dang (Data Owner) |
 
 Nếu baseline = 0 thì ghi rõ "baseline = 0" thay vì phần trăm cải thiện.
 ## Bảng luật ưu tiên (chốt trước khi code; luật trên thắng luật dưới)

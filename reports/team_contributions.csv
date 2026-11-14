@@ -1,6 +1,2 @@
 member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Member 1,hoanghaidang1233,d0512203hhd@gmail.com,All(solo),"src/main.py; configs/;fixtures/; tools/;src/pipeline.py,tests/; reports/metrics_*.json",,,
-"",,,"","",,,
-"",,,"","",,,
-"",,,"","",,,
-"","","","","","","",""
+Member 1,Hoàng Hải Đăng,6651304@sv.vnua.edu.vn,All (solo): Lead + Core algorithm + QA/metric + Review/report,"configs/lab.yaml; configs/tracks/t08.yaml; src/baseline_t08.py; src/pipeline.py; tests/test_t08.py; tools/make_self_gold_t08.py; reports/",4f34e2f;f097a3b;e0be309;a8654b8;a206a31;c648506;1e7bbfd;336b0a7,"Làm một mình: config, metric contract, baseline, PoC lineage + exception policy, 10 test T08, DPO review, self-gold + metrics",yes

@@ -175,6 +175,8 @@ def decide(ctx: RunContext, final: pd.DataFrame) -> Decision:
 
 def run(ctx: RunContext) -> None:
     spec = get_track(ctx.track)
+    if spec.track != "t08":
+        raise NotImplementedError(f"pipeline này chỉ cài cho t08, không hỗ trợ {spec.track}")
     data = load(ctx)
     scored = process(ctx, data)
     ctx.stats["n_items"] = len(scored)

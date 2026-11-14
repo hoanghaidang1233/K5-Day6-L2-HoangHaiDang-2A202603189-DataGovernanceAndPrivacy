@@ -6,7 +6,7 @@ input: fixtures/t08_deletion
 pred_file: actions.csv
 params:
   dry_run: true
-  bugget: 60
+  budget: 60
 eval_params: {
 
 }
